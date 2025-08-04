@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "pass123",
+      "deviceid": "abcd1234efgh5678",
+      "status": "active"
+    },
+    {
+      "username": "user1",
+      "password": "123456",
+      "deviceid": "92b13ed874a155fa",
+      "status": "inactive"
+    }
+  ]
+}
